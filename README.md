@@ -2,7 +2,7 @@
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-13,944-0e75b6" alt="Profile Views">
+  <img src="https://img.shields.io/badge/Profile%20Views-26,614-0e75b6" alt="Profile Views">
 </p>
 
 
